@@ -1,4 +1,4 @@
-module github.com/portapps/discord-ptb-portable
+module github.com/portapps/discord-canary-portable
 
 go 1.26.0
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.997-32 (2026/06/15)
+
+* Switch from Discord PTB to Discord Canary
+* Discord Canary 1.0.997
+* Portapps 3.18.0
+
 ## 1.0.1188-31 (2026/04/13)
 
 * Discord PTB 1.0.1188

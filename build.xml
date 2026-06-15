@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="discord-ptb" basedir=".">
+<project name="discord-canary" basedir=".">
 
-  <dirname property="app.basedir" file="${ant.file.discord-ptb}"/>
+  <dirname property="app.basedir" file="${ant.file.discord-canary}"/>
   <property name="build.properties" value="${app.basedir}/build.properties"/>
   <property file="${build.properties}"/>
 
